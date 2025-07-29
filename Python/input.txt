@@ -1,0 +1,5 @@
+Python is a great programming language.
+It is widely used for web development.
+Data analysis is another popular use case.
+Machine learning is growing fast.
+Scripts can automate many tasks.
